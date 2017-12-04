@@ -1,5 +1,5 @@
 -- #Beyond Reborn Robot
--- #@BeyondTeam
+-- #@RELAX_MUSIC_4
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -90,7 +90,7 @@ function create_config( )
 		"fun",
 
 	},
-    sudo_users = {111334847, 157059515, sudo_id},
+    sudo_users = {459317832, 404677403, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -100,15 +100,15 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》https://github.com/BeyondTeam/BDReborn 
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer《
-》@ToOfan ➣ Developer《
+》@kazzrr ➣ Founder & Developer《
+》@fhcgkh ➣ Developer《
+》@kazzrr2 ➣ Developer《
 
 》Special thanks to :
 》Beyond Team Members
 
 》Our channel :
-》@BeyondTeam《
+》@RELAX_MUSIC_4《
 
 》Our website :
 》http://Beyond-Dev.iR
